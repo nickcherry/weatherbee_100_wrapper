@@ -12,7 +12,7 @@ After installing [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/
 npm install -g cordova
 ```
 
-After dependencies have been installed, run the iOS app locally by running the following command from the project root:
+After dependencies have been installed, start the iOS app locally (in the iOS Simulator) by running the following command from the project root:
 
 ```shell
 cordova run ios

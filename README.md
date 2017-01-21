@@ -1,6 +1,6 @@
 # Weatherbee 100 Wrapper
 
-This is a [Cordova-based](https://cordova.apache.org/) wrapper application for the [Weatherbee 100 Ventilator Simulation App](github.com/nickcherry/weatherbee_100).
+This is a [Cordova-based](https://cordova.apache.org/) wrapper application for the [Weatherbee 100 Ventilator Simulation App](https://github.com/nickcherry/weatherbee_100).
 
 ## Development Setup
 
